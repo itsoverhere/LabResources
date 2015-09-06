@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabViews</string>
+
+    <string name="label_eiffel">Tore ng Eiffel</string>
+    <string name="label_airport">Paliparan</string>
+    <string name="change">Palitan</string>
+    <string name="action_settings">Settings</string>
+</resources>
