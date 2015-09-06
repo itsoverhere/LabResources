@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">LabViews</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="label_eiffel">Eiffel Tower</string>
+    <string name="label_airport">Airport</string>
+    <string name="change">Change</string>
     <string name="action_settings">Settings</string>
 </resources>
